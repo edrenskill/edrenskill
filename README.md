@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EnsoIII</h1>
+<h1 align="center">Hi 👋, I'm Edren Von</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseensoiii&label=Profile%20views&color=0e75b6&style=flat" alt="joseensoiii" /> </p>
 <h3 align="center">"Motivated MERN Stack Developer with a Passion for Building Dynamic and Responsive Web Applications. Proficient in MongoDB, Express, React, and Node.js. Eager to Collaborate with a Team of Like-Minded Developers and Contribute to the Success of a Dynamic Organization."</h3>
 
@@ -81,6 +81,6 @@
 
 </td></tr></table> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseEnsoIII&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseEnsoIII&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=edrenskill&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edrenskill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>

@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="linkedin logo" />
 </a><br>
 <a href="https://personal-portfolio-tau-virid.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white"  height="35" alt="Portfolio logo" />
+  <img   height="35" alt="Portfolio logo" /> //src="https://img.shields.io/badge/Portfolio-%23009639.svg?style=for-the-badge&logo=Hyperledger&logoColor=white"
 </a>
 
 
